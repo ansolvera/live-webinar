@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.js"],"names":["window","addEventListener","button","document","querySelector","setTimeout","classList","add"],"mappings":"AAIAA,OAAOC,iBAAiB,QAAQ,KAC5B,IAAIC,EAASC,SAASC,cAAc,WACpCC,YAAW,KACPH,EAAOI,UAAUC,IAAI,gBACtB","file":"index.js"}
